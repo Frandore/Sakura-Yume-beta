@@ -1063,10 +1063,10 @@ a:hover {
 }
 
 .site-top .lower {
-    position: relative;
-    display: inline-block;
-    float: right;
-    margin: 15px 0 0 0;
+    position: absolute;
+    /*display: inline-block;*/
+    /*float: right;*/
+    margin: 15px 25% 0 35%;
     font-size: 16px
 }
 
