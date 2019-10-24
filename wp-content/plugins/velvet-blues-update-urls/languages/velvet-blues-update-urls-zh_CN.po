@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Velvet Blues Update URLs\n"
+"POT-Creation-Date: 2017-09-18 19:18+0800\n"
+"PO-Revision-Date: 2017-09-18 19:20+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: velvet-blues-update-urls.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: velvet-blues-update-urls.php:43
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr "内容(文章、页面、自定义类型)"
+
+#: velvet-blues-update-urls.php:44
+msgid "Excerpts"
+msgstr "摘要"
+
+#: velvet-blues-update-urls.php:45
+msgid "Attachments"
+msgstr "附件"
+
+#: velvet-blues-update-urls.php:46
+msgid "Links"
+msgstr "链接"
+
+#: velvet-blues-update-urls.php:47
+msgid "Custom Fields"
+msgstr "自定义栏目"
+
+#: velvet-blues-update-urls.php:48
+msgid "GUIDs"
+msgstr ""
+
+#: velvet-blues-update-urls.php:123 velvet-blues-update-urls.php:135
+#: velvet-blues-update-urls.php:193
+msgid "ERROR"
+msgstr "错误"
+
+#: velvet-blues-update-urls.php:123
+msgid "Please try again."
+msgstr "请再试一次。"
+
+#: velvet-blues-update-urls.php:135 velvet-blues-update-urls.php:167
+#: velvet-blues-update-urls.php:193
+msgid "Your URLs have not been updated."
+msgstr "没有链接被更新"
+
+#: velvet-blues-update-urls.php:135
+msgid "Please select at least one checkbox."
+msgstr "至少需要勾选一个更新项目。"
+
+#: velvet-blues-update-urls.php:151
+msgid "Why do the results show 0 URLs updated?"
+msgstr "为什么结果显示没有更新?"
+
+#: velvet-blues-update-urls.php:151
+msgid ""
+"This happens if a URL is incorrect OR if it is not found in the content. "
+"Check your URLs and try again."
+msgstr "可能是链接地址是错误的或者没有找内容，检查你的链接并再试一次。"
+
+#: velvet-blues-update-urls.php:151
+msgid "Want us to do it for you?"
+msgstr ""
+
+#: velvet-blues-update-urls.php:151
+msgid "Contact us at"
+msgstr ""
+
+#: velvet-blues-update-urls.php:151
+msgid ""
+"We will backup your website and move it for $65 OR simply update your URLs "
+"for only $29."
+msgstr ""
+
+#: velvet-blues-update-urls.php:165
+msgid "ERROR: Something may have gone wrong."
+msgstr "错误：可能有某个环节出了问题。"
+
+#: velvet-blues-update-urls.php:176
+msgid "Success! Your URLs have been updated."
+msgstr "成功！你的网址已经更新。"
+
+#: velvet-blues-update-urls.php:182
+msgid "Results"
+msgstr "结果"
+
+#: velvet-blues-update-urls.php:193
+msgid "Please enter values for both the old url and the new url."
+msgstr "请输入旧的链接和新的链接"
+
+#: velvet-blues-update-urls.php:198
+msgid "Velvet Blues Update URLs"
+msgstr "更新链接"
+
+#: velvet-blues-update-urls.php:201
+msgid ""
+"After moving a website, lets you fix old URLs in content, excerpts, links, "
+"and custom fields."
+msgstr "更改网站域名或者目录有变动后，可以在此修改相应的链接。"
+
+#: velvet-blues-update-urls.php:203
+msgid "WE RECOMMEND THAT YOU BACKUP YOUR WEBSITE."
+msgstr "建议：操作前备份您好的网站！"
+
+#: velvet-blues-update-urls.php:205
+msgid ""
+"You may need to restore it if incorrect URLs are entered in the fields below."
+msgstr "如果出现错误可恢复备份。"
+
+#: velvet-blues-update-urls.php:208 velvet-blues-update-urls.php:234
+msgid "Step"
+msgstr "步骤"
+
+#: velvet-blues-update-urls.php:210
+msgid "Enter your URLs in the fields below"
+msgstr "在下面的表单中输入您的url"
+
+#: velvet-blues-update-urls.php:215
+msgid "Old URL"
+msgstr "旧的URL"
+
+#: velvet-blues-update-urls.php:218
+msgid "Old Site Address"
+msgstr "旧的网站地址"
+
+#: velvet-blues-update-urls.php:224
+msgid "New URL"
+msgstr "新的URL"
+
+#: velvet-blues-update-urls.php:227
+msgid "New Site Address"
+msgstr "新的网站地址"
+
+#: velvet-blues-update-urls.php:236
+msgid "Choose which URLs should be updated"
+msgstr "选择准备更新的链接"
+
+#: velvet-blues-update-urls.php:241
+msgid "Select all"
+msgstr "如果没有特殊要求，选择下面所有"
+
+#: velvet-blues-update-urls.php:245
+msgid "URLs in page content"
+msgstr "文章内容中的链接"
+
+#: velvet-blues-update-urls.php:247
+msgid "posts, pages, custom post types, revisions"
+msgstr "文章，页面、自定文章类型"
+
+#: velvet-blues-update-urls.php:252
+msgid "URLs in excerpts"
+msgstr "摘要中的链接"
+
+#: velvet-blues-update-urls.php:257
+msgid "URLs in links"
+msgstr "链接中的链接"
+
+#: velvet-blues-update-urls.php:262
+msgid "URLs for attachments"
+msgstr "附件的链接"
+
+#: velvet-blues-update-urls.php:264
+msgid "images, documents, general media"
+msgstr "图片、文件、其它媒体"
+
+#: velvet-blues-update-urls.php:269
+msgid "URLs in custom fields and meta boxes"
+msgstr "自定义栏目值中的链接"
+
+#: velvet-blues-update-urls.php:274
+msgid "Update ALL GUIDs"
+msgstr "更新所有GUID，"
+
+#: velvet-blues-update-urls.php:276
+msgid "GUIDs for posts should only be changed on development sites."
+msgstr "可以更新GUID。"
+
+#: velvet-blues-update-urls.php:278
+msgid "Learn More."
+msgstr "了解相关知识"
+
+#: velvet-blues-update-urls.php:284
+msgid "Update URLs NOW"
+msgstr "现在更新链接"
+
+#. Plugin Name of the plugin/theme
+msgid "更新链接"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.velvetblues.com/web-development-blog/wordpress-plugin-update-urls/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"可以帮助你一键更换域名，用新链接替换旧的链接，单击“启用”，然后到<a href="
+"\"tools.php?page=velvet-blues-update-urls.php\">更新链接</a>页面替换链接。"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid ""
+"VelvetBlues.com | <a href=\"http://zmingcx.com/\" target=\"_blank\">基于官方"
+"3.2.7版，知更鸟汉化</a>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.velvetblues.com/"
+msgstr ""
+
+#~ msgid ""
+#~ "After moving a website, %s lets you fix old URLs in content, excerpts, "
+#~ "links, and custom fields."
+#~ msgstr "当更改网站域名或者目录有变动后，可以在此修正链接。"
+
+#~ msgid ""
+#~ "This plugin <strong>updates all urls in your website</strong> by "
+#~ "replacing old urls with new urls. To get started: 1) Click the \"Activate"
+#~ "\" link to the left of this description, and 2) Go to your <a href="
+#~ "\"tools.php?page=velvet-blues-update-urls.php\">Update URLs</a> page to "
+#~ "use it."
+#~ msgstr ""
+#~ "可以帮助你一键更换域名，用新链接替换旧的链接，单击“启用”，然后到<a href="
+#~ "\"tools.php?page=velvet-blues-update-urls.php\">更新链接</a>页面更新链接。"
+
+#~ msgid "Update URLs"
+#~ msgstr "更新链接"
